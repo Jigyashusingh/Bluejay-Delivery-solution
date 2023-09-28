@@ -39,9 +39,6 @@ file_path = "/path/to/your/excel/file.xlsx"
 
 3. Run the Python script to analyze the data:
 
-```bash
-python analyze_timecard.py
-```
 
 The program will print the results of the analysis to the console.
 
