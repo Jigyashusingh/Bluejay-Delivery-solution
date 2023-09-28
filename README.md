@@ -18,7 +18,7 @@ This Python program analyzes an Excel file containing employee timecard data and
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/assignment-timecard-analyzer.git
+git clone https://github.com/Jigyashusingh/Bluejay-Delivery-solution/tree/main
 ```
 
 2. Install the required libraries using pip:
